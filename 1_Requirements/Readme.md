@@ -57,6 +57,6 @@ __Low Level Requiremnts__
 
 | ID    |                    DESCRPTION                                                                                                            |CATEGORY|   STATUS  |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------|
-|  LLR1 | The user able -- read the output data                                                                                                    |Textual |           |
+|  LLR1 | The user able to read the output data                                                                                                    |Textual |           |
 
 
