@@ -1,4 +1,4 @@
-                                                                ___AUTOMATIC WATER CONTROL SYSTEM IN TANK USING ARDUINO__
+                                 ___AUTOMATIC WATER CONTROL SYSTEM IN TANK USING ARDUINO__
 
 
 __Introduction__
