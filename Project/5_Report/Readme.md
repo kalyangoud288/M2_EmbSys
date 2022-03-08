@@ -124,3 +124,7 @@ __ARDUINO IDE SOFTWARE__:
 4.The Arduino IDE supplies a software library from the Wiring project, which provides many common input and output procedures. 
 
 5.User-written code only requires two basic functions, for starting the sketch and the main program loop, that are compiled and linked with a program stub main() into an executable cyclic executive program with the GNU tool chain, also included with the IDE distribution.
+
+__Conclusion__:
+
+Automation of the various components around us has been widely increased to reduce human intervention and save time. The water tank overflows as the height ofwater in the tank cannot be randomly guessed. This leads to extra energy consumption, which is a high concern in the present. People also need to wait and stop doing their other activities until the tank is full. Hence, here is an idea which senses and indicates the water level so that the pump can be switched off on appropriate time and save water, electricity and time as well. Therefore “Automatic Water Level Indicator and Controller Using Arduino” project can definitely be useful on a large scale basis due to minimum requirement of man power and also the installation process being easier making more compatible for everyone to use. 
