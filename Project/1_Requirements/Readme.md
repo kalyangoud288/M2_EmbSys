@@ -82,15 +82,10 @@ __HIGH LEVEL REQUIREMENTS__
 
 | ID    |                    DESCRPTION                                                                                                            |CATEGORY|   STATUS  |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------|
-
-| HR01  |  The Application allows the water into tank according the water level in tank                                                            |Textual |Implemented|  
-
+| HR01  |  The Application allows the water into tank according the water level in tank                                                            |Textual |Implemented|   
 | HR02  |  The Application easy of using and easily implemented                                                                                    |Textual |Implemented|
-
 | HR03  |  The Application helps in avoiding of wastage of water from tank                                                                         |Textual |Implemented|
-
 | HR04  |  The Application helps in wastage of power supply                                                                                        |Textual |Implemented|
-
 | HR05  |  The Application helps to help user without any work for user for switching motor                                                        |Textual |Implemented|     
                                         
 
@@ -100,7 +95,6 @@ __Low Level Requiremnts__
 
 | ID    |                    DESCRPTION                                                                                                            |CATEGORY|   STATUS  |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------|
-
 |  LLR1 | The user ease of using the circuit                                                                                                       |Textual |Implemented|
 
 
